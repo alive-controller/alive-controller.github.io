@@ -1,6 +1,6 @@
 # Alive Controller
 
-A VEX IQ controller in your browser for the robot **WinterB** (77718W Winterbots).
+A VEX IQ controller in your browser for the robot **WinterB** .
 
 - 3D VEX IQ controller and Brain you can click, drag and pick up
 - Keyboard driving (WASD + arrows), drive modes, power = Bluetooth on/off, lock-controller view
