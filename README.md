@@ -11,4 +11,4 @@ Open it at the GitHub Pages address of this repository in Chrome or Edge.
 The robot runs the WinterB receiver program (Robot log → Show Brain program on the site).
 
 Fan-made. Not affiliated with VEX Robotics or Innovation First. 3D models converted from VEX's public CAD files.
-Built with React, three.js and components from React Bits.
+Built with React, three.js and React Bits components.
